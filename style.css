@@ -46,4 +46,31 @@ header p{
  width: 200px;
  display: inline-block; 
 }
+
+.team img {
+width: 100px;
+height:80px;
+border-radius:50%;
+}
  
+ /*Get involved*/
+ .getinvolved{
+  background-color: #5cb85c; 
+  text-align:center;
+  /*adds padding on top and bottom */
+  padding:50px 0 80px;
+  margin-top: 50px;
+  width: 100%;
+ }
+ .getinvolved h1{
+  color:#fff;
+ }
+ .options{
+  padding: 30px;
+  margin: 10px;
+  border:1px solid #ccc;
+  
+  background-color: #fff
+  border-radius:5px;
+  margin-top:30px;
+ }
